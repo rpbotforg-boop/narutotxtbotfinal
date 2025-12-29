@@ -10,9 +10,9 @@ plugins = dict(root="plugins")
 if __name__ == "__main__":
     bot = Client(
         "Master",
-        bot_token=Config.BOT_TOKEN,
-        api_id=Config."27433400",
-        api_hash=Config."1a286620de5ffe0a7d9b57e604293555",
+        bot_token=Config.8457218709:AAGZpkE5j2YYE0FzoIXxe7d97qSTXcWwVyY,
+        api_id=Config.27433400,
+        api_hash=Config.1a286620de5ffe0a7d9b57e604293555,
         sleep_threshold=120,
         plugins=plugins,
         workers=10000,
