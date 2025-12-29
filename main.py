@@ -1,4 +1,4 @@
-from config import API_ID, API_HASH, BOT_TOKEN
+from config import bot_token,api_id,api_hash
 from database.naruto import *
 from pyrogram import Client, idle
 import asyncio, logging
