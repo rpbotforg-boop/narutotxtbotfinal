@@ -10,9 +10,9 @@ plugins = dict(root="plugins")
 if __name__ == "__main__":
     bot = Client(
         "Master",
-        bot_token="8457218709:AAGZpkE5j2YYE0FzoIXxe7d97qSTXcWwVyY",
-        api_id="27433400",
-        api_hash="1a286620de5ffe0a7d9b57e604293555",
+        bot_token="8225118430:AAEOFTRcVH3Au1LR0iFyasUb4U5CGATuoT4",
+        api_id="22447622",
+        api_hash="543b62d58d3e723e766ba57a984ab65d",
         sleep_threshold=120,
         plugins=plugins,
         workers=10000,
