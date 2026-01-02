@@ -6,7 +6,7 @@ To start extracting URLs, simply send /app. 📲
 <blockquote><i>🔓 I support over 100+ apps for seamless URL extraction.
 📥 After extracting the URLs, you can easily download the videos/pdfs using any of my Uploader Bot.⏬</blockquote></i>
 
-<u>For any queries, contact [Admin](https://t.me/Priyansh230819</u></b>
+<u>For any queries, contact [Admin](https://t.me/@king11up</u></b>
 """
 
 APP = """
@@ -83,4 +83,5 @@ auth = """
 
 If you need any assistance, feel free to contact [Admin](https://t.me/Priyansh230819)</b>
 """
+
 
