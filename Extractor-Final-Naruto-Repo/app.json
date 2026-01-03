@@ -9,7 +9,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "standard-2x"
+            "size": "standard-1x"
         }
     },
     "addons": [],
