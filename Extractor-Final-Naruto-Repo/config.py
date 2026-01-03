@@ -12,15 +12,15 @@ class Config(object):
     # Database ka naam
     DB_NAME = "niravpatel180503_db_user"
     # Text log channel ki ID
-    TXT_LOG = -1002655703820
+    TXT_LOG = -1003550815342
     # Authentication log channel ki ID
-    AUTH_LOG = -1003577180094
+    AUTH_LOG = -1003664908028
     # Hit log channel ki ID
-    HIT_LOG = -1003577180094
+    HIT_LOG = -1003643803969
     # DRM dump channel 
-    DRM_DUMP = -1003348766009
+    DRM_DUMP = -1003523745178
     # Main channel ki ID
-    CHANNEL = -1003566055053
+    CHANNEL = -1003481794992
     # Channel ka link
     CH_URL = "https://t.me/+WNYGnEVYHRwzMDll"
     # Bot ke owner ka Telegram link
